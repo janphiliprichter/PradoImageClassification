@@ -1,1 +1,1 @@
-This repository contains the report and code for my project on image classification for the DSE Master's course Algorithms for Massive Data.
+This repository contains the report and code of my image classification project for the DSE Master's course Algorithms for Massive Data.
